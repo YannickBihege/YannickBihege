@@ -5,7 +5,7 @@ Senior Data & Cloud Engineer · Freelance · Frankfurt
 
 Building **security-critical data infrastructure** in Rust and Python.
 Currently: Azure · Databricks · Delta Lake · Kubernetes · Terraform
-Often: AWS · GCP · Systems Programming
+Often: AWS · GCP · Systems Programming · Microservices 
 ---
 
 ## What I build
@@ -16,7 +16,7 @@ Catch breaking schema changes before they reach production.
 
 **[signal-fetch](https://github.com/YannickBihege/signal-fetch)**
 Rust CLI for RSI(14) + gold-denominated price data.
-Powers [The Signal](https://substack.com) — a weekly data-driven investment newsletter.
+Powers [The Signal](https://substack.com) — a weekly data-driven informative newsletter.
 
 ---
 
