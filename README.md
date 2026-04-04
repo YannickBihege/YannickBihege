@@ -1,5 +1,6 @@
 # Yannick Bihege
 Computer science
+
 Senior Data & Cloud Engineer · Freelance · Frankfurt
 
 Building **security-critical data infrastructure** in Rust and Python.
