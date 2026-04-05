@@ -1,7 +1,7 @@
 # Yannick Bihege
 Computer science
 
-Senior Data & Cloud Engineer · Freelance · Frankfurt
+Senior Data & Cloud Engineer · Consultant · Frankfurt
 
 Building **security-critical data infrastructure** in Rust and Python.
 Currently: Azure · Databricks · Delta Lake · Kubernetes · Terraform
