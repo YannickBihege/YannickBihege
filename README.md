@@ -28,7 +28,6 @@ Powers [The Signal](https://substack.com) — a weekly data-driven informative n
 | Cloud | Azure · Databricks · Delta Lake · Snowflake  |
 | Infrastructure | Kubernetes · Terraform · GitHub Actions |
 | Security | DORA/NIS2 · Data integrity · Cryptographic audit |
-| AI orchestration |  ·  ·  |
 
 
 ---
