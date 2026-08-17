@@ -24,10 +24,12 @@ Powers [The Signal](https://substack.com) — a weekly data-driven informative n
 
 | Layer | Tools |
 |---|---|
-| Language | Rust · Python · SQL |
-| Cloud | Azure · Databricks · Delta Lake |
+| Language | Rust · Python · SQL · Java  |
+| Cloud | Azure · Databricks · Delta Lake · Snowflake  |
 | Infrastructure | Kubernetes · Terraform · GitHub Actions |
 | Security | DORA/NIS2 · Data integrity · Cryptographic audit |
+| AI orchestration |  ·  ·  |
+
 
 ---
 
