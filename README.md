@@ -39,5 +39,4 @@ Powers [The Signal](https://substack.com) — a weekly data-driven informative n
 ## Open to
 - Dev engagements: data platform security, Rust data tooling
 - Defence-adjacent data infrastructure
-- Oxidize 2026 · EuroRust 2026
 
